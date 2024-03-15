@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m new to GitHub and I'm learning about how all of this works!
+
 <!--
 **drbaker3867/drbaker3867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
